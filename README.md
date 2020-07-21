@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Java or Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AswinAsok?tab=repositories](https://github.com/AswinAsok?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/AswinAsok?tab=repositories)
 
 - 💬 Ask me about **Java,Python,Html and Css**
 
