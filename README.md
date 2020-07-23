@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
 
-- 🔭 I’m currently working on [Hilarious Calculator](https://github.com/AswinAsok/Calculator)
+- 🔭 I’m currently learning JavaScript
 
 - 👯 I’m looking to collaborate on **Java or Python**
 
