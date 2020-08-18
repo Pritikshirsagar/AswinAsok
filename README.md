@@ -16,5 +16,5 @@
 
 <p float="left">
   <img src=https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true&theme=radical>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&layout=compact> 
+  <img align="right" src=https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&layout=compact> 
 </p>
