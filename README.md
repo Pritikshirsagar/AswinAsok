@@ -14,8 +14,4 @@
 <a href="https://instagram.com/_aswin_asok_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_aswin_asok_" height="20" width="20" /></a>
 </p>
 
-<div>
-<p align="left" float: left;><img src=https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true&theme=radical/></p>
-<p align="right" float: left;><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&layout=compact/></p>
-</div>
-
+(img src=https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true&theme=radical ) !(img src=https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&layout=compact/ )
