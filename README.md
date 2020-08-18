@@ -18,3 +18,5 @@
 <a href="https://fb.com/aswinasokofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aswinasokofficial" height="20" width="20" /></a>
 <a href="https://instagram.com/_aswin_asok_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_aswin_asok_" height="20" width="20" /></a>
 </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true%20alt=aswinasok /> </p>
