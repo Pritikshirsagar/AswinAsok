@@ -2,15 +2,10 @@
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
 
 - 🔭 I’m currently learning JavaScript
-
 - 👯 I’m looking to collaborate on **Java or Python**
-
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/AswinAsok?tab=repositories)
-
 - 💬 Ask me about **Java,Python,Html and Css**
-
 - 📫 How to reach me **aswinasokofficial@gmail.com**
-
 - ⚡ Fun fact **Loves Coding**
 
 <p align="center">
