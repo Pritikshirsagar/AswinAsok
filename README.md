@@ -36,10 +36,10 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
 
-## ⚡ My Latest Project
-
+## 💻 My Latest Project
+<p align = "center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher)](https://github.com/aswinasok/InstaFetcher)
-
+</p>
  <hr>
  
  
