@@ -9,10 +9,9 @@
 - ⚡ Fun fact **Loves Coding**
 
 <p align="center">
- [![Linkedin Badge](https://img.shields.io/badge/-Aswin Asok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aswin-asok-b330541b0/)](https://linkedin.com/in/aswin-asok-b330541b0/)
-[![Instagram Badge](https://img.shields.io/badge/-_aswin_asok_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_aswin_asok_/)](https://instagram.com/_aswin_asok_)
-[![Gmail Badge](https://img.shields.io/badge/-aswinasokofficial-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswinasokofficial@gmail.com)](mailto:aswinasokofficial@gmail.com)
-
+<a href="https://linkedin.com/in/aswin-asok-b330541b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-asok-b330541b0" height="20" width="20" /></a>
+<a href="https://fb.com/aswinasokofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aswinasokofficial" height="20" width="20" /></a>
+<a href="https://instagram.com/_aswin_asok_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_aswin_asok_" height="20" width="20" /></a>/
 </p>
 
 ## ⚡ My Technologies
