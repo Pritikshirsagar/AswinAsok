@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aswin </h1>
-<h3 align="center">A Tech Enthusiast From Kerala</h3>
+![Hi, I'm Aswin 👋 I'm a 🚀 Tech Enthusiast 🚀 I ❤️ From Kerala ❤️](https://github.com/matyo91/matyo91/raw/master/assets/github.gif)
 
 - 🔭 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on **Java or Python**
