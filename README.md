@@ -27,7 +27,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
- <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=aswinasok&show_icons=true&theme=radical></p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aswinasok&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&hide=TeX&layout=compact)
  <hr>
  
  
