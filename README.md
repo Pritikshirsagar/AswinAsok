@@ -58,7 +58,7 @@ const Malayali = {
 
 ## 💻 My Latest Project
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher">(https://github.com/aswinasok/InstaFetcher)
+<a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher"></a>
 <div>
  <hr>
  
