@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
 
-
-- 🔭 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on **Java or Python**
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/AswinAsok?tab=repositories)
-- 💬 Ask me about **Java, Python, HTML and JavaScript**
-- 📫 How to reach me **aswinasokofficial@gmail.com**
-- ⚡ Fun fact I don't eat most of the Vegetables
+```javascript
+const Malayali = {
+  name: "Aswin Asok",
+  pronouns: "he" | "him",
+  code: [Java, Python, HTML, CSS, C, Python, JavaScript],
+  tools: [VScode, PyCharm, Node.js, Eclipse],
+  techCommunities: {
+                      Member : "Crossroads",
+                      Member : "Kuttycoders",
+                   },
+ askMeAbout: "Java, Python, HTML and JavaScript"
+ challenge: "I am doing the Web Development Challenge",
+ fact: "I don't eat most of the Vegetables"
+}
+```
 
 <p align="center">
 <a href="https://linkedin.com/in/aswin-asok-b330541b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-asok-b330541b0" height="20" width="20" /></a>
