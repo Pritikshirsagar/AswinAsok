@@ -9,7 +9,7 @@ const Malayali = {
   code: [Java, Python, HTML, CSS, C, Python, JavaScript],
   tools: [VScode, PyCharm, Node.js, Eclipse],
   techCommunities: {
-                      Exclusive Member : "Crossroads",
+                      Exclusive_Member : "Crossroads",
                       Member : "Kuttycoders",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
