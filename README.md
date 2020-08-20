@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
-
+<div>
+  <div float: left;width=50%;>
 ```javascript
 const Malayali = {
   name: "Aswin Asok",
@@ -16,7 +17,11 @@ const Malayali = {
  challenge: "I am doing the Web Development Challenge",
  fact: "I don't eat most of the Vegetables"
 }
-```
+```</div>
+    <div float: left;>
+      <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+    <div>
+<div> 
 
 <p align="center">
 <a href="https://linkedin.com/in/aswin-asok-b330541b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-asok-b330541b0" height="20" width="20" /></a>
