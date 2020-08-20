@@ -4,12 +4,12 @@
 ```javascript
 const Malayali = {
   name: "Aswin Asok",
-  mail: "aswinasokofficial@gmail.com"
+  mail: "aswinasokofficial@gmail.com",
   pronouns: "he" | "him",
   code: [Java, Python, HTML, CSS, C, Python, JavaScript],
   tools: [VScode, PyCharm, Node.js, Eclipse],
   techCommunities: {
-                      Member : "Crossroads",
+                      Exclusive Member : "Crossroads",
                       Member : "Kuttycoders",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
