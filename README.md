@@ -57,9 +57,9 @@ const Malayali = {
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
 
 ## 💻 My Latest Project
-
+<div align = "center">
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher)](https://github.com/aswinasok/InstaFetcher)
-
+<div>
  <hr>
  
  
