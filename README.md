@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)]
 
+<img align='center' src="https://github4life.herokuapp.com/ethomson.gif">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br />
 
