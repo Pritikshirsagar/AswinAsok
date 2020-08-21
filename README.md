@@ -30,7 +30,7 @@ const Malayali = {
 <a href="https://linkedin.com/in/aswin-asok-b330541b0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-asok-b330541b0" height="20" width="20" /></a>
 <a href="https://fb.com/aswinasokofficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aswinasokofficial" height="20" width="20" /></a>
 <a href="https://instagram.com/_aswin_asok_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_aswin_asok_" height="20" width="20" /></a>
- <a href="https://t.me/The_Hilarious_Coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/The_Hilarious_Coder" height="20" width="20" /></a>
+ <a href="https://t.me/The_Hilarious_Coder" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="https://t.me/The_Hilarious_Coder" height="20" width="20" /></a>
  
 </p>
 
@@ -50,9 +50,12 @@ const Malayali = {
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 
-
+<div>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AswinAsok&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+</div>
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&hide=TeX&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
 
