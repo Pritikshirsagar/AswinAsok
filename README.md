@@ -7,6 +7,7 @@
 ```javascript
 const Malayali = {
   name: "Aswin Asok",
+  nameICallMyself: "The Hilarious Coder"
   mail: "aswinasokofficial@gmail.com",
   pronouns: "he" | "him",
   code: [Java, Python, HTML, CSS, C, Python, JavaScript],
