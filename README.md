@@ -51,14 +51,14 @@ const Malayali = {
 </div>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AswinAsok&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AswinAsok&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinasok&hide=TeX&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
 
 ## 💻 My Latest Project
 <div align = "center">
-<a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher"></a>
+<a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a>
 <div>
  <hr>
  
