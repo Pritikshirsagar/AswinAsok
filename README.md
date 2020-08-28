@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
 <div>
-<img float:'left'; align='right' src="https://github.com/AswinAsok/AswinAsok/blob/master/giphy.webp" width="100" height="100">
-<img float:'left'; src="https://github4life.herokuapp.com/ethomson.gif">
+<img float:left; align='right' src="https://github.com/AswinAsok/AswinAsok/blob/master/giphy.webp" width="100" height="100">
+<img float:left; src="https://github4life.herokuapp.com/ethomson.gif">
 <div>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
