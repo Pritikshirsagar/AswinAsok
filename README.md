@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
-<p align="center" float: right;>
+
+<img align='right' src="https://github.com/AswinAsok/AswinAsok/blob/master/giphy.webp" width="150" height="150">
+<br />
 <img src="https://github4life.herokuapp.com/ethomson.gif">
-<img src="https://github.com/AswinAsok/AswinAsok/blob/master/giphy.webp" width="150" height="150">
-</p>
+
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br />
