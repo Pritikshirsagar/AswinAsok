@@ -2,7 +2,7 @@
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
 
 <img align='right' src="https://github.com/AswinAsok/AswinAsok/blob/master/giphy.webp" width="150" height="150">
-<br />
+
 <img src="https://github4life.herokuapp.com/ethomson.gif">
 
 
