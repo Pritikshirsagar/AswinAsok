@@ -61,9 +61,10 @@ const Malayali = {
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
 
-## 💻 My Latest Project
+## 💻 My Latest Projects
 <div align = "center">
 <a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher"></a>
+<a href = "https://github.com/aswinasok/AutoTyper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=AutoTyper"></a>
 <div>
  <hr>
  
