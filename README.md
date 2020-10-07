@@ -61,7 +61,7 @@ const Malayali = {
 ## 💻 My Latest Projects
 <div align = "center">
 <a href = "https://github.com/aswinasok/InstaFetcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=InstaFetcher"></a>
-<a href = "https://github.com/aswinasok/AutoTyper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=AutoTyper"></a>
+<a href = "https://github.com/AswinAsok/Shopping-Cart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aswinasok&repo=Shopping-Cart"></a>
 <div>
  <hr>
  
