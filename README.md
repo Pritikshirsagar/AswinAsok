@@ -10,11 +10,12 @@ const Malayali = {
   nameICallMyself: "The Hilarious Coder",
   mail: "aswinasokofficial@gmail.com",
   pronouns: "he" | "him",
-  code: [Java, Python, HTML, CSS, C, Python, JavaScript],
+  code: [Java, Python, HTML, CSS, C, Python, JavaScript,NodeJs,MongoDB,],
   tools: [VScode, PyCharm, Node.js, Eclipse],
   techCommunities: {
                       Exclusive_Member : "Crossroads",
                       Member : "Kuttycoders",
+                      Member : "Foss Point",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
  challenge: "I am doing the Web Development Challenge",
