@@ -11,15 +11,15 @@ const Malayali = {
   mail: "aswinasokofficial@gmail.com",
   pronouns: "he" | "him",
   code: [Java, Python, HTML, CSS, C, Python, JavaScript, NodeJs, MongoDB],
-  tools: [VScode, PyCharm, Eclipse, BlueJ, NetBeans],
+  weapons: [VScode, PyCharm, Eclipse, BlueJ, NetBeans, Postman, Robo 3T],
   techCommunities: {
                       Exclusive_Member : "Crossroads",
                       Member : "Kuttycoders",
                       Member : "Foss Point",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
- challenge: "I am doing the Web Development Challenge",
- fact: "I don't eat most of the Vegetables"
+ challenge: "I am currently learning the MERN Stack",
+ fun fact: "I don't eat most of the Vegetables"
 }
 ```
 <br />
