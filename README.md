@@ -7,7 +7,7 @@
 ```javascript
 const Malayali = {
   name: "Aswin Asok",
-  phase: "Learning Phase"
+  phase: "Learning Phase",
   nameICallMyself: "The Hilarious Coder",
   mail: "aswinasokofficial@gmail.com",
   pronouns: "he" | "him",
@@ -20,7 +20,7 @@ const Malayali = {
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
  challenge: "I am currently learning the MERN Stack",
- fun fact: "I don't eat most of the Vegetables"
+ funFact: "I don't eat most of the Vegetables"
 }
 ```
 <br />
