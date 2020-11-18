@@ -16,7 +16,7 @@ const Malayali = {
   techCommunities: {
                       Exclusive_Member : "Crossroads",
                       Member : "Kuttycoders",
-                      Member : "Foss Point",
+                      Member : "TinkerHub",
                    },
  askMeAbout: "Java, Python, HTML and JavaScript",
  challenge: "I am currently learning the MERN Stack",
