@@ -62,6 +62,7 @@ const Malayali = {
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aswinasok)
+![counter](https://https://github.com/AswinAsok].m.pipedream.net)
 
 ## 💻 My Latest Projects
 <div align = "center">
