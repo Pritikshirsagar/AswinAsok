@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin </h1>
 <h3 align="center">A Tech Enthusiast From Kerala</h3>
-<h5>"My Exams are coming soon",so I may be inactive for a while😊</h5>
+<p>"My Exams are coming soon",so I may be inactive for a while😊</p>
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" >
 <br />
